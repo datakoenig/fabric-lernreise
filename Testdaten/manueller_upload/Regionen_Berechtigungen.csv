@@ -1,0 +1,11 @@
+﻿VKREGION;ROLLE;E_MAIL
+Nord;Vertrieb;vertrieb.nord@anlagenbau-muster.example
+Süd;Vertrieb;vertrieb.sued@anlagenbau-muster.example
+West;Vertrieb;vertrieb.west@anlagenbau-muster.example
+Ost;Vertrieb;vertrieb.ost@anlagenbau-muster.example
+Export;Vertrieb;vertrieb.export@anlagenbau-muster.example
+*;Einkauf;einkauf@anlagenbau-muster.example
+*;Einkauf;einkauf.leitung@anlagenbau-muster.example
+*;PL;albers@anlagenbau-muster.example
+*;PL;brinkmann@anlagenbau-muster.example
+*;PL;conrad@anlagenbau-muster.example

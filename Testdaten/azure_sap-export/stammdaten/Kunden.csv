@@ -1,0 +1,124 @@
+﻿KUNNR;NAME1;LAND1;ORT01;BRANCHE;VKREGION;KUNDE_SEIT
+0000100000;Kessler Kunststoff KG;DE;Osnabrück;Chemie;Nord;03.01.2013
+0000100007;Horn Textil KG;DE;Augsburg;Medizintechnik;Süd;14.04.2020
+0000100014;Pohl Glas KG;DE;Essen;Lebensmittel;West;21.01.2008
+0000100021;Horn Chemie GmbH;DE;Berlin;Chemie;Ost;31.01.2018
+0000100028;Hartmann Keramik SE;DE;Lübeck;Kunststoff;Nord;18.09.2012
+0000100035;Ritter Packaging GmbH & Co. KG;DE;Nürnberg;Metallverarbeitung;Süd;23.09.2024
+0000100042;Engel Getränke GmbH;DE;Münster;Kunststoff;West;04.01.2010
+0000100049;Seidel Papier GmbH & Co. KG;DE;Berlin;Elektronik;Ost;28.02.2011
+0000100056;Busch Packaging GmbH;DE;Oldenburg;Kunststoff;Nord;26.02.2016
+0000100063;Winkler Metall GmbH;DE;Augsburg;Medizintechnik;Süd;08.06.2020
+0000100070;Pohl Keramik GmbH;DE;Essen;Papier;West;28.10.2024
+0000100077;Horn Medizintechnik SE;DE;Jena;Papier;Ost;19.10.2013
+0000100084;Haas Textil SE;DE;Osnabrück;Papier;Nord;26.07.2008
+0000100091;Busch Food AG;DE;Freiburg;Pharma;Süd;21.10.2023
+0000100098;Engel Medizintechnik GmbH;DE;Münster;Medizintechnik;West;18.08.2017
+0000100105;Pohl Automotive SE;DE;Dresden;Chemie;Ost;20.01.2022
+0000100112;Winkler Getränke SE;DE;Lübeck;Papier;Nord;18.08.2013
+0000100119;Seidel Metall GmbH & Co. KG;DE;Ulm;Papier;Süd;30.08.2023
+0000100126;Pohl Glas SE;DE;Essen;Lebensmittel;West;08.08.2014
+0000100133;Nolte Pharma GmbH;DE;Dresden;Medizintechnik;Ost;11.04.2018
+0000100140;Engel Medizintechnik SE;DE;Hannover;Lebensmittel;Nord;31.10.2013
+0000100147;Pohl Elektronik KG;DE;Freiburg;Elektronik;Süd;27.09.2017
+0000100154;Seidel Getränke GmbH;DE;Bonn;Verpackung;West;07.02.2015
+0000100161;Winkler Medizintechnik GmbH;DE;Jena;Papier;Ost;21.10.2013
+0000100168;Winkler Medizintechnik AG;DE;Kiel;Elektronik;Nord;10.06.2009
+0000100175;Nolte Medizintechnik SE;DE;Nürnberg;Chemie;Süd;13.05.2012
+0000100182;Haas Automotive SE;DE;Köln;Chemie;West;02.01.2008
+0000100189;Winkler Textil KG;DE;Erfurt;Chemie;Ost;07.09.2021
+0000100196;Brandt Food GmbH;DE;Osnabrück;Pharma;Nord;11.11.2024
+0000100203;Seidel Packaging GmbH & Co. KG;DE;Stuttgart;Pharma;Süd;11.01.2015
+0000100210;Busch Textil SE;DE;Münster;Automotive;West;29.03.2020
+0000100217;Weber Elektronik KG;DE;Dresden;Medizintechnik;Ost;14.07.2023
+0000100224;Engel Packaging GmbH;DE;Kiel;Automotive;Nord;13.01.2011
+0000100231;Busch Packaging KG;DE;Augsburg;Metallverarbeitung;Süd;01.05.2011
+0000100238;Engel Glas AG;DE;Essen;Pharma;West;19.05.2010
+0000100245;Ritter Medizintechnik GmbH;DE;Leipzig;Kunststoff;Ost;30.06.2022
+0000100252;Krämer Medizintechnik GmbH;DE;Hamburg;Papier;Nord;04.09.2018
+0000100259;Fuchs Getränke GmbH & Co. KG;DE;Augsburg;Kunststoff;Süd;21.09.2010
+0000100266;Horn Glas AG;DE;Düsseldorf;Medizintechnik;West;27.08.2019
+0000100273;Brandt Metall KG;DE;Berlin;Elektronik;Ost;01.06.2021
+0000100280;Weber Getränke GmbH;DE;Osnabrück;Metallverarbeitung;Nord;06.10.2008
+0000100287;Brandt Getränke AG;DE;München;Papier;Süd;29.01.2009
+0000100294;Winkler Keramik AG;DE;Essen;Pharma;West;23.11.2010
+0000100301;Engel Food KG;DE;Dresden;Automotive;Ost;30.10.2022
+0000100308;Lindner Metall GmbH & Co. KG;DE;Kiel;Papier;Nord;15.04.2017
+0000100315;Schulte Metall GmbH & Co. KG;DE;Stuttgart;Kunststoff;Süd;02.12.2011
+0000100322;Nolte Elektronik SE;DE;Bonn;Metallverarbeitung;West;14.06.2014
+0000100329;Winkler Automotive GmbH & Co. KG;DE;Chemnitz;Elektronik;Ost;21.12.2017
+0000100336;Kessler Papier KG;DE;Oldenburg;Verpackung;Nord;13.02.2010
+0000100343;Schulte Medizintechnik SE;DE;Regensburg;Kunststoff;Süd;24.02.2017
+0000100350;Seidel Glas AG;DE;Köln;Kunststoff;West;08.07.2011
+0000100357;Krämer Papier KG;DE;Erfurt;Papier;Ost;08.11.2012
+0000100364;Kessler Textil GmbH & Co. KG;DE;Osnabrück;Medizintechnik;Nord;24.05.2024
+0000100371;Brandt Textil GmbH & Co. KG;DE;Ulm;Verpackung;Süd;13.01.2023
+0000100378;Seidel Automotive GmbH;DE;Bonn;Verpackung;West;28.02.2010
+0000100385;Haas Automotive GmbH;DE;Magdeburg;Pharma;Ost;09.01.2025
+0000100392;Krämer Logistik AG;DE;Lübeck;Chemie;Nord;13.05.2019
+0000100399;Fuchs Packaging KG;DE;Freiburg;Chemie;Süd;12.07.2014
+0000100406;Fuchs Automotive GmbH & Co. KG;DE;Dortmund;Chemie;West;23.04.2008
+0000100413;Haas Keramik GmbH & Co. KG;DE;Jena;Pharma;Ost;14.04.2009
+0000100420;Kessler Food GmbH;DE;Hannover;Chemie;Nord;07.02.2010
+0000100427;Seidel Textil GmbH & Co. KG;DE;Nürnberg;Elektronik;Süd;14.08.2021
+0000100434;Horn Pharma SE;DE;Dortmund;Medizintechnik;West;01.11.2012
+0000100441;Horn Elektronik SE;DE;Magdeburg;Chemie;Ost;25.05.2023
+0000100448;Krämer Keramik KG;DE;Lübeck;Verpackung;Nord;22.09.2016
+0000100455;Sauer Keramik GmbH & Co. KG;DE;München;Metallverarbeitung;Süd;12.07.2008
+0000100462;Sauer Logistik GmbH & Co. KG;DE;Dortmund;Chemie;West;29.08.2014
+0000100469;Haas Kunststoff KG;DE;Leipzig;Papier;Ost;06.09.2015
+0000100476;Brandt Papier GmbH;DE;Lübeck;Chemie;Nord;21.08.2011
+0000100483;Bergmann Automotive KG;DE;Nürnberg;Medizintechnik;Süd;13.07.2022
+0000100490;Sauer Pharma SE;DE;Aachen;Automotive;West;26.12.2015
+0000100497;Haas Metall SE;DE;Dresden;Metallverarbeitung;Ost;10.11.2022
+0000100504;Weber Glas AG;DE;Bremen;Papier;Nord;20.08.2008
+0000100511;Seidel Getränke KG;DE;Augsburg;Verpackung;Süd;24.04.2011
+0000100518;Weber Pharma GmbH;DE;Dortmund;Papier;West;27.09.2018
+0000100525;Haas Packaging GmbH & Co. KG;DE;Dresden;Medizintechnik;Ost;02.01.2010
+0000100532;Lindner Papier GmbH;DE;Lübeck;Papier;Nord;12.12.2013
+0000100539;Fuchs Getränke KG;DE;Freiburg;Kunststoff;Süd;05.04.2009
+0000100546;Hartmann Getränke AG;DE;Essen;Pharma;West;22.12.2012
+0000100553;Engel Keramik AG;DE;Magdeburg;Metallverarbeitung;Ost;11.11.2023
+0000100560;Krämer Glas AG;DE;Osnabrück;Verpackung;Nord;16.09.2015
+0000100567;Brandt Kunststoff GmbH & Co. KG;DE;Augsburg;Elektronik;Süd;22.04.2020
+0000100574;Pohl Medizintechnik KG;DE;Dortmund;Lebensmittel;West;20.07.2011
+0000100581;Hartmann Kunststoff KG;DE;Magdeburg;Metallverarbeitung;Ost;03.11.2008
+0000100588;Lindner Chemie GmbH & Co. KG;DE;Hannover;Papier;Nord;24.05.2024
+0000100595;Nolte Automotive GmbH;DE;München;Papier;Süd;13.11.2012
+0000100602;Bergmann Metall SE;DE;Aachen;Papier;West;12.06.2022
+0000100609;Schulte Automotive SE;DE;Berlin;Papier;Ost;11.11.2013
+0000100616;Sauer Pharma KG;DE;Lübeck;Lebensmittel;Nord;21.08.2011
+0000100623;Sauer Packaging KG;DE;Nürnberg;Kunststoff;Süd;02.01.2011
+0000100630;Ritter Food GmbH;DE;Bonn;Medizintechnik;West;12.07.2022
+0000100637;Pohl Metall GmbH & Co. KG;DE;Erfurt;Papier;Ost;31.10.2011
+0000100644;Engel Pharma AG;DE;Hannover;Papier;Nord;31.03.2011
+0000100651;Lindner Pharma GmbH;DE;Ulm;Pharma;Süd;26.05.2016
+0000100658;Schulte Kunststoff GmbH & Co. KG;DE;Düsseldorf;Papier;West;17.06.2011
+0000100665;Horn Textil AG;DE;Dresden;Chemie;Ost;26.04.2015
+0000100672;Pohl Chemie GmbH;CZ;Brno;Verpackung;Export;02.11.2021
+0000100679;Sauer Getränke GmbH;PL;Poznań;Elektronik;Export;09.03.2019
+0000100686;Weber Keramik GmbH & Co. KG;FR;Lyon;Elektronik;Export;15.02.2021
+0000100693;Krämer Chemie GmbH;AT;Graz;Elektronik;Export;13.06.2025
+0000100700;Sauer Packaging AG;CH;Basel;Kunststoff;Export;13.09.2017
+0000100707;Engel Papier GmbH & Co. KG;PL;Poznań;Elektronik;Export;14.01.2017
+0000100714;Fuchs Automotive AG;US;Cincinnati;Lebensmittel;Export;16.06.2023
+0000100721;Krämer Glas GmbH & Co. KG;CZ;Brno;Medizintechnik;Export;23.07.2016
+0000100728;Brandt Automotive SE;IT;Bologna;Medizintechnik;Export;24.09.2022
+0000100735;Vogel Metall GmbH & Co. KG;PL;Poznań;Chemie;Export;06.03.2015
+0000100742;Nolte Keramik SE;NL;Eindhoven;Automotive;Export;23.03.2020
+0000100749;Nolte Food GmbH & Co. KG;CH;Basel;Papier;Export;28.04.2025
+0000100756;Kessler Packaging GmbH & Co. KG;GB;Sheffield;Elektronik;Export;15.03.2022
+0000100763;Ritter Metall GmbH;US;Charlotte;Kunststoff;Export;13.02.2023
+0000100770;Haas Kunststoff GmbH;FR;Lyon;Elektronik;Export;18.03.2023
+0000100777;Seidel Papier AG;CZ;Brno;Kunststoff;Export;16.07.2022
+0000100784;Fuchs Pharma SE;IT;Bologna;Automotive;Export;27.03.2008
+0000100791;Nolte Papier GmbH & Co. KG;CH;Basel;Kunststoff;Export;25.12.2020
+0000100798;Horn Metall SE;US;Cincinnati;Kunststoff;Export;06.04.2008
+0000100805;Bergmann Glas AG;FR;Lyon;Chemie;Export;26.10.2022
+0000100812;Nolte Kunststoff GmbH;CH;Zürich;Elektronik;Export;20.07.2019
+0000100819;Nolte Textil GmbH & Co. KG;AT;Graz;Papier;Export;13.07.2023
+0000100826;Kessler Automotive GmbH & Co. KG;CH;Zürich;Elektronik;Export;17.08.2012
+0000100833;Horn Getränke AG;IT;Bologna;Verpackung;Export;21.11.2009
+0000100035 ;Ritter Packaging GmbH & Co. KG;DE;Nürnberg;Metallverarbeitung;Süd;23.09.2024
+0000100287 ;Brandt Getränke AG;DE;München;Papier;Süd;29.01.2009
+0000100539 ;Fuchs Getränke KG;DE;Freiburg;Kunststoff;Süd;05.04.2009
